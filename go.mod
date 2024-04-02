@@ -92,9 +92,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.9.7 // indirect
 	github.com/prometheus/tsdb v0.7.1 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
-	github.com/quic-go/qtls-go1-19 v0.3.3 // indirect
-	github.com/quic-go/qtls-go1-20 v0.2.3 // indirect
-	github.com/quic-go/quic-go v0.33.0 // indirect
+	github.com/quic-go/quic-go v0.42.0 // indirect
 	github.com/quic-go/webtransport-go v0.5.3 // indirect
 	github.com/rjeczalik/notify v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
@@ -110,6 +108,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.16.0 // indirect
 	go.uber.org/dig v1.17.0 // indirect
 	go.uber.org/fx v1.19.2 // indirect
+	go.uber.org/mock v0.4.0 // indirect
 	gonum.org/v1/gonum v0.13.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc // indirect
 )
@@ -305,7 +304,7 @@ require (
 	go.uber.org/zap v1.24.0 // indirect
 	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
-	golang.org/x/mod v0.10.0 // indirect
+	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.8.0 // indirect
 	golang.org/x/sync v0.2.0
